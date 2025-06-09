@@ -6,7 +6,21 @@ La app inicia con una lista de días de la semana. Al seleccionar un día, se mu
 
 Esta herramienta fue creada con el objetivo de ofrecer una forma práctica de consultar el programa oficial, facilitando la planificación y participación en las actividades de la Semana de Ingeniería dentro de nuestra universidad.
 
-## Características
+## 📸 Capturas de pantalla
+
+| 🟢 **Lunes** | 🔵 **Martes** |
+|-------------|--------------|
+| ![Lunes](PantallazosApp/Lunes.jpg) | ![Martes](PantallazosApp/Martes.jpg) |
+
+| 🟣 **Miércoles** | 🟠 **Jueves** |
+|-------------|--------------|
+| ![Miércoles](PantallazosApp/Miercoles.jpg) | ![Jueves](PantallazosApp/Jueves.jpg) |
+
+| 🔴 **Viernes** | 🗺️ **Ubicaciones** |
+|-------------|--------------|
+| ![Viernes](PantallazosApp/Viernes.jpg) | ![Ubicaciones](PantallazosApp/Ubicaciones.jpg) |
+
+## 📱Características
 
 - Lista organizada por días de la semana.
 - Visualización clara de actividades con hora, título, lugar y ponente.
@@ -14,17 +28,10 @@ Esta herramienta fue creada con el objetivo de ofrecer una forma práctica de co
 - Uso de RecyclerView para eficiencia en listas.
 - Código modular y mantenible.
 
-## 📸 Capturas de pantalla
-
-
-
-## Tecnologías utilizadas
+## 🛠️Tecnologías utilizadas
 
 - Kotlin
 - Android Studio
 - RecyclerView
 - ViewHolder pattern
 - XML Layouts
-
-👤 Autor
-- Briceño Cabrera Diego
