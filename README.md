@@ -8,17 +8,13 @@ Esta herramienta fue creada con el objetivo de ofrecer una forma práctica de co
 
 ## 📸 Capturas de pantalla
 
-| 🟢 **Lunes** | 🔵 **Martes** |
-|-------------|--------------|
-| ![Lunes](PantallazosApp/Lunes.jpg) | ![Martes](PantallazosApp/Martes.jpg) |
+| 🟢 **Lunes** | 🔵 **Martes** | 🟣 **Miércoles** |
+|-------------|--------------|--------------|
+| <img src="PantallazosApp/Lunes.jpg" width="200"/> | <img src="PantallazosApp/Martes.jpg" width="200"/> | <img src="PantallazosApp/Miercoles.jpg" width="200"/> |
 
-| 🟣 **Miércoles** | 🟠 **Jueves** |
-|-------------|--------------|
-| ![Miércoles](PantallazosApp/Miercoles.jpg) | ![Jueves](PantallazosApp/Jueves.jpg) |
-
-| 🔴 **Viernes** | 🗺️ **Ubicaciones** |
-|-------------|--------------|
-| ![Viernes](PantallazosApp/Viernes.jpg) | ![Ubicaciones](PantallazosApp/Ubicaciones.jpg) |
+ |🟠 **Jueves** | 🔴 **Viernes** | 🗺️ **Ubicaciones** |
+|-------------|--------------|--------------|
+| <img src="PantallazosApp/Jueves.jpg" width="200"/> | <img src="PantallazosApp/Viernes.jpg" width="200"/> | <img src="PantallazosApp/Ubicaciones.jpg" width="200"/> |
 
 ## 📱Características
 
